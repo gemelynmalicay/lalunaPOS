@@ -1,0 +1,4 @@
+# Optional direct receipt printing. Install ONLY on Windows running the La Luna server.
+# Standard browser printing works without these packages.
+pywin32>=306,<400
+pyserial>=3.5,<4
